@@ -1,0 +1,16 @@
+id_vendedor,producto,cantidad,precio_unitario,fecha,id,nombre,region,categoria,costo,ganancia_total
+1,laptop,2,1500,2024-01-05,1,Lucas Gomez,Buenos Aires,electronica,800,1400
+2,mouse,10,50,2024-01-07,2,Carla Rios,Mendoza,accesorios,15,350
+3,teclado,5,80,2024-01-10,3,Martin Paz,Cordoba,accesorios,30,250
+4,monitor,3,500,2024-01-12,4,Sofia Herrera,Buenos Aires,electronica,250,750
+5,auriculares,8,90,2024-01-15,5,Diego Torres,Mendoza,accesorios,40,400
+1,silla,4,350,2024-02-01,1,Lucas Gomez,Buenos Aires,mobiliario,150,800
+2,laptop,1,1500,2024-02-03,2,Carla Rios,Mendoza,electronica,800,700
+3,escritorio,2,400,2024-02-08,3,Martin Paz,Cordoba,mobiliario,200,400
+4,mouse,15,50,2024-02-10,4,Sofia Herrera,Buenos Aires,accesorios,15,525
+5,monitor,2,500,2024-02-14,5,Diego Torres,Mendoza,electronica,250,500
+1,teclado,6,80,2024-03-01,1,Lucas Gomez,Buenos Aires,accesorios,30,300
+2,auriculares,5,90,2024-03-05,2,Carla Rios,Mendoza,accesorios,40,250
+3,laptop,3,1500,2024-03-10,3,Martin Paz,Cordoba,electronica,800,2100
+4,escritorio,1,400,2024-03-15,4,Sofia Herrera,Buenos Aires,mobiliario,200,200
+5,silla,3,350,2024-03-20,5,Diego Torres,Mendoza,mobiliario,150,600

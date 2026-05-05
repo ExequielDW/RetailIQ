@@ -1,0 +1,10 @@
+=== RESUMEN DE PERFOMANCE ===
+Mejor vendedor general: Martin Paz
+Mejor por region:
+region        nombre       
+Buenos Aires  Lucas Gomez      2500
+              Sofia Herrera    1475
+Cordoba       Martin Paz       2750
+Mendoza       Carla Rios       1300
+              Diego Torres     1500
+Name: ganancia_total, dtype: int64
