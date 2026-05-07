@@ -1,10 +1,6 @@
-import sys
-
-sys.path.append("C:\\Users\\Exequiel\\Desktop\\RetailIQ\\src")
-
-import loader as lo
-import analizer as an
-import reporter as repor
+import src.loader as lo
+import src.analizer as an
+import src.reporter as repor
 
 df2 = lo.carga_de_datos()
 df2 = an.ganancia_x_transaccion(df2)
