@@ -1,4 +1,4 @@
-import analizer as an
+import src.analizer as an
 
 
 def generar_reporte(df2, vendedores, mejor_region):

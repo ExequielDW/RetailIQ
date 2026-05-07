@@ -1,4 +1,4 @@
-import loader as lo
+from src import loader as lo
 
 
 def ganancia_x_transaccion(df2):
@@ -21,10 +21,3 @@ def mejor_vendedor_por_region(df2):
     idx = mejor_por_region.groupby("region").idxmax()
     print(mejor_por_region.loc[idx])
     return mejor_por_region
-
-
-if __name__ == "__main__":
-    df2 = lo.carga_de_datos()
-    df2 = ganancia_x_transaccion(df2)
-    ranking_vendedores(df2)
-    mejor_vendedor_por_region(df2)
